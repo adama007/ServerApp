@@ -39,14 +39,14 @@ Ouvrez le fichier application.properties dans le dossier /backend/src/main/resou
 ## Utilisation
 Lancez le backend Spring Boot en utilisant votre IDE ou la commande Maven.
 
-cd backend
-mvn spring-boot:run
-
+   cd backend
+   mvn spring-boot:run
+   
 
 Lancez le frontend Angular.
 
-cd frontend
-ng serve
+  cd frontend
+  ng serve
 Ouvrez l'application dans votre navigateur à l'adresse http://localhost:4200.
 
 Explorez les fonctionnalités de gestion des serveurs via l'interface utilisateur.
